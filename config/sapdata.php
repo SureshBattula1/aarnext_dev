@@ -1,0 +1,10 @@
+<?php
+return [
+    'SAP_BASE_URL' => env('SAP_BASE_URL'),
+    'SAP_DATABASE' => env('SAP_DATABASE'),
+    'LIVE_WHATSAPP_GROUP_ID' => env('LIVE_WHATSAPP_GROUP_ID'),
+    'PROJECT_NAME' => env('PROJECT_NAME'),
+    'TEKROI_GROUP_ID' => env('TEKROI_GROUP_ID'),
+    'SAP_SESSION_USER' => env('SAP_SESSION_USER'),
+    'SAP_SESSION_USER_PSWD' => env('SAP_SESSION_USER_PSWD'),
+];

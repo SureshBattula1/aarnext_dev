@@ -1,0 +1,2 @@
+- [x] Update password validation in CustomerAuthController.php to enforce strength (at least 8 chars, one lowercase, one uppercase, one digit, one special char).
+- [x] Test the reset password functionality to ensure validation works.
